@@ -16,6 +16,9 @@ I've been sharing this with my friends who aren't software professionals, so the
 * NVM (Node Version Manager)
 * Install Node
 * Install Yarn
+* Clone this repository with git
+* Install the dependancies
+* Run the server
 
 https://github.com/creationix/nvm
 
