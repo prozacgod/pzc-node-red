@@ -31,8 +31,8 @@ Installation:
     # you only have to do this during the install, when you open a new terminal node/nvm will work fine.
     . ~/.nvm/nvm.sh
     
-    # this will install node.js (version 6 is the LTS)
-    nvm install v6
+    # this will install node.js (version 8 is the LTS)
+    nvm install 8
     
     # this will install the yarn package management tool
     npm install -g yarn
